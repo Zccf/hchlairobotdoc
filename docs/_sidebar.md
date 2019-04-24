@@ -1,12 +1,12 @@
-* 入门
+* 产品简介
   
   * [快速开始](zh-cn/quickstart.md)
   * [多页文档](zh-cn/more-pages.md)
   * [定制导航栏](zh-cn/custom-navbar.md)
   * [封面](zh-cn/cover.md)
   * [测试页面](zh-cn/jkfda.md)
- 
-* 定制化
+
+* 快速入门
   
   * [配置项](zh-cn/configuration.md)
   * [主题](zh-cn/themes.md)
@@ -15,7 +15,7 @@
   * [Markdown 配置](zh-cn/markdown.md)
   * [代码高亮](zh-cn/language-highlight.md)
 
-* 指南
+* 用户指南
   
   * [部署](zh-cn/deploy.md)
   * [文档助手](zh-cn/helpers.md)
@@ -25,6 +25,7 @@
   * [服务端渲染 (SSR)](zh-cn/ssr.md)
   * [文件嵌入<sup style="color:red">(new)<sup>](zh-cn/embed-files.md)
 
-* [Awesome docsify](zh-cn/awesome.md)
+* 视频专区
+* 常见问题
 
 * [Changelog](zh-cn/changelog.md)
