@@ -8,7 +8,7 @@
   * [创建呼叫中心任务](quickstart/ccctask.md)
   * [意向客户微信通知](quickstart/wxpush.md)
 
-* 用户指南
+* 用户指南(PC)
   
   * [智能营销](userguide/aicc.md)
   * [呼叫中心](userguide/cc.md)
@@ -16,7 +16,7 @@
   * [数据中心](userguide/data.md)
   * [公司管理](userguide/co.md)
   * [基础数据管理](userguide/basicdata.md)
-
+  
 * 视频专区
 * 常见问题
   
