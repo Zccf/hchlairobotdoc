@@ -1,4 +1,4 @@
-!> 为了更好地使用体验，推荐使用Chrome浏览器，[点击下载](https://www.google.cn/intl/zh-CN/chrome/)
+!> 为了更好的使用体验，推荐使用Chrome浏览器：[点击下载](https://www.google.cn/intl/zh-CN/chrome/)
 
 ### 什么是智能电话机器人? {docsify-ignore}
 
