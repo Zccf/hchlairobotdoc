@@ -1,24 +1,30 @@
 * 产品简介
   
-  * [什么是电话机器人](zh-cn/quickstart.md)
+  * [什么是智能电话机器人]()
 
 * 快速入门
-  
-  * [创建AI外呼任务](zh-cn/configuration.md)
-  * [创建人工外呼任务]
-  * [意向客户微信通知](zh-cn/themes.md)
+
+  * [创建AI外呼任务](quickstart/ccalltask.md)
+  * [创建呼叫中心任务](quickstart/ccctask.md)
+  * [意向客户微信通知](quickstart/wxpush.md)
 
 * 用户指南
   
-  * [部署](zh-cn/deploy.md)
-  * [文档助手](zh-cn/helpers.md)
-  * [兼容 Vue](zh-cn/vue.md)
-  * [CDN](zh-cn/cdn.md)
-  * [离线模式(PWA)](zh-cn/pwa.md)
-  * [服务端渲染 (SSR)](zh-cn/ssr.md)
-  * [文件嵌入<sup style="color:red">(new)<sup>](zh-cn/embed-files.md)
+  * [智能营销](userguide/aicc.md)
+  * [呼叫中心](userguide/cc.md)
+  * [客户管理](userguide/crm.md)
+  * [数据中心](userguide/data.md)
+  * [公司管理](userguide/co.md)
+  * [基础数据管理](userguide/basicdata.md)
 
 * 视频专区
 * 常见问题
+  
+  * [智能外呼类问题](faq/aiccfaq.md)
+  * [呼叫中心类问题](faq/ccfaq.md)
+  * [公司管理类问题](faq/crmfaq.md)
+  * [其他问题](faq/otherfaq.md)
+  
+  
 
-* [Changelog](zh-cn/changelog.md)
+
