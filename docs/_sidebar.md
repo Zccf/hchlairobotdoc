@@ -1,19 +1,12 @@
 * 产品简介
   
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
-  * [测试页面](zh-cn/jkfda.md)
+  * [什么是电话机器人](zh-cn/quickstart.md)
 
 * 快速入门
   
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [插件列表](zh-cn/plugins.md)
-  * [开发插件](zh-cn/write-a-plugin.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+  * [创建AI外呼任务](zh-cn/configuration.md)
+  * [创建人工外呼任务]
+  * [意向客户微信通知](zh-cn/themes.md)
 
 * 用户指南
   
